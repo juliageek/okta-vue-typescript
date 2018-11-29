@@ -1,0 +1,46 @@
+#OS files
+.DS_Store
+
+# Editor files
+/.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+**.swp
+*.sw*
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+node_modules
+/dist/
+
+# Parcel cache
+.cache
+
+# Environment file
+.env
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+testdata
+
+# Other
+/test-results/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+selenium-debug.log

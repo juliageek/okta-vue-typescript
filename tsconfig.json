@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "project": "Insight3-TS",
+    "outDir": "./build/",
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "typeRoots": ["./node_modules/@types"],
+    "noImplicitAny": false,
+    "target": "es5",
+    "lib": [ "es2015" ]
+  },
+  "exclude": ["node_modules"]
+}
